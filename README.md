@@ -25,6 +25,7 @@ files:
 
 run:
 the dataset is from this link: https://www.kaggle.com/datasets/ahmadalqawasmeh/vegetables-images 
+ - create a folder named dataset inside the root folder
 run veg.ipynb: 
  - download the dataset, rename the dataset file archive.zip to veg.zip and extract inside final/dataset/ folder 
  - run the notebook veg.ipynb
